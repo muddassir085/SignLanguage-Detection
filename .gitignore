@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+dataset/processed/
+dataset/raw/
+models/*.keras
+models/*.pkl
+models/*.json
+results/*.png
+results/*.txt
+results/*.json
+
